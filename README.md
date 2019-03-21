@@ -5,7 +5,7 @@ Welcome to the Github of the TEVO Tornado 3D printer - you find here the latest 
 
 | Printer           | Tornado           |
 | ----------------- |:-----------------:|
-| Motherboard v1    | MKS Gen           |
+| Motherboard v1    | MKS Base          |
 | Motherboard v2    | MKS Gen L         |
 | Firmware          | Marlin            |
 | Actual Version    | T-TO-X.XXXX       |
