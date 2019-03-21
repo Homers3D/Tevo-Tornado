@@ -1,7 +1,7 @@
 ![tevo3d](img/tevo-3dprinter-tornado-01.jpg)
 # Tevo Tornado 3D Printer
 
-Welcome to the Github of the TEVO Tornado 3D printer - you find here the latest firmware & documents for your Tornado. Please take time and have detailed look at the infos provided on this page to be sure to update the correct firmware for your motherboard and version of your 3d printer.
+Welcome to the Github of the TEVO Tornado 3D printer - you find here the latest firmware & documents for your Tornado. Please take time and have detailed look at the infos provided on this page to be sure to update the correct firmware for your motherboard and version of 3d printer.
 
 
 
